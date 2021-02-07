@@ -26,7 +26,7 @@
                   <article>
                         <div class="SideLeft">
                               <img src="img/koscielec.jpg"></img><br />
-                                  <p>Jestem spełnionym tatą dwóch synków. Możliwe, że jestem też dobrym mężem. Na
+                                  <p> Jestem spełnionym tatą dwóch synków. Możliwe, że jestem też dobrym mężem. Na
                                   pewno lubię czytać (głównie książki). Mogę siebie nazwać fanem astrofizyki, sędzią
                                   piłki nożnej, lecz co najistotniejsze to jestem rzetelnym, dokładnym, sumiennie
                                   wykonującym swoje obowiązki pracownikiem. Niestety, niespełnionym. Obecne
